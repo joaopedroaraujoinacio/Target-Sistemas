@@ -1,0 +1,5 @@
+Com todas as luzes inicialmente desligas, eu ligaria apenas uma
+(primeira ida) e iria checar qual era, descobrindo então qual seria,
+após isso, iria ligar mais outra (segunda ida) e assim descobriria
+mais uma e respectivamente descobriria qual seria a terceira que 
+está desligada. 
